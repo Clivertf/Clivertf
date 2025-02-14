@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Clivertf! 🚀  
 
-<!--
-**Clivertf/Clivertf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **passionate programmer** with over 3 years of experience in software development. I specialize in **React, TypeScript, and TailwindCSS**.  
 
-Here are some ideas to get you started:
+### 🔥 About Me  
+- 🏗️ Currently building my **React portfolio**  
+- 🎯 Interested in **web development & open source projects**  
+- 📫 Reach me at: [clementphreeman@gmail.com]   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies & Tools  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 📈 GitHub Stats  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Clivertf&show_icons=true&theme=radical)  
+
+---
+
+```sh
+git add README.md
+git commit -m "Updated GitHub profile README"
+git push
