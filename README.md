@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Clivertf! 🚀  
 
-I'm a **passionate programmer** with over 30 years of experience in software development. I specialize in **React, TypeScript, TailwindCSS, and C++**.  
+I'm a **passionate programmer** with over 3 years of experience in software development. I specialize in **React, TypeScript, TailwindCSS, and C++**.  
 
-- 🌱 Currently building my **React portfolio**  
+  
 - 🎯 Interested in **web development, open source, and problem-solving**  
 - 💬 Ask me about **JavaScript, TypeScript, C++, and Git**  
 - 📫 Reach me at: [clementphreeman@gmail.com] 
-- ⚡ Fun fact: **I’ve been coding for over 30 years!**  
+- ⚡ Fun fact: **I’ve been coding for over 3 years!**  
 
 ---
 
